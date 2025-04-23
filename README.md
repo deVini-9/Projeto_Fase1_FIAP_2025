@@ -35,8 +35,8 @@ O conteúdo do arquivo [RN24.txt](https://github.com/deVini-9/Projeto_Fase1_FIAP
 ## Testes e Evidências
 Foram realizados testes para validar a criação das tabelas no SGBD Oracle e a execução do script Python. As evidências completas estão documentadas nos arquivos PDF:
 
-[Evidencia_Teste_Melhores_Compras.pdf](https://github.com/deVini-9/Projeto_Fase1_FIAP_2025/blob/9bf55a91fe1baf917d3ada2beeb78a6fa780787b/PBL_1%C2%BA_Ano_Fase1_Grupo_52/Evidencia_Teste_Melhores_Compras.pdf)  
-[Evidencia_Teste_Nivel_Atendimento_SAC_Melhores_Compras.pdf](https://github.com/deVini-9/Projeto_Fase1_FIAP_2025/blob/9bf55a91fe1baf917d3ada2beeb78a6fa780787b/PBL_1%C2%BA_Ano_Fase1_Grupo_52/Evidencia_Teste_Nivel_Atendimento_SAC_Melhores_Compras.pdf)
+<br/>[Evidencia_Teste_Melhores_Compras.pdf](https://github.com/deVini-9/Projeto_Fase1_FIAP_2025/blob/9bf55a91fe1baf917d3ada2beeb78a6fa780787b/PBL_1%C2%BA_Ano_Fase1_Grupo_52/Evidencia_Teste_Melhores_Compras.pdf)<br/>  
+<br/>[Evidencia_Teste_Nivel_Atendimento_SAC_Melhores_Compras.pdf](https://github.com/deVini-9/Projeto_Fase1_FIAP_2025/blob/9bf55a91fe1baf917d3ada2beeb78a6fa780787b/PBL_1%C2%BA_Ano_Fase1_Grupo_52/Evidencia_Teste_Nivel_Atendimento_SAC_Melhores_Compras.pdf)<br/>
 
 ## Evidência da Criação das Tabelas
 ![image](https://github.com/user-attachments/assets/22e32b4b-08cc-4a6c-a36e-09b217717572)
